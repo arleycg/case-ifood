@@ -18,6 +18,9 @@ dos dados
 
 ## Passo a passo do desenvolvimento:
 
-### -  Criado storage no S3 com o nome "arley-case-ifood" (arley-case-ifood):
+###  1 - Criado storage no S3 com o nome "arley-case-ifood" (arley-case-ifood):
 ![bucket s3](imgs/s3.png)
+
+###  2 -  Configurado o External Location do "Unit Catalog" para apontar para o S3:
+
 
