@@ -22,5 +22,6 @@ dos dados
 ![bucket s3](imgs/s3.png)
 
 ###  2 -  Configurado o External Location do "Unit Catalog" para apontar para o S3:
+![external location](external_location.png) 
 
 
