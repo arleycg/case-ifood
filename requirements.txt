@@ -1,0 +1,3 @@
+Requisitos da Solução:
+- Databricks free edition: https://www.databricks.com/learn/free-edition
+- Bucket S3 na AWS: https://aws.amazon.com/pt/console/
