@@ -24,7 +24,7 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
   - 3.2 criado schemas para cada layer (bronze, silver e gold)
   - 3.3 criado volume de nome "landing" para governança dos dados baixados da API em JSON
 
-![external location](imgs/landing.png) 
+![external location](imgs/catalogo.png) 
 
 
 
