@@ -31,5 +31,5 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 ![external location](imgs/catalogo.png) 
 
 ###  4 - Notebooks:
-  -  4.1  Download dos dados fontes da API: [Acesse o relatório completo](https://github.com/usuario/repositorio/blob/main/docs/relatorio.md)
+  -  4.1  Configuração do ambiente: [1 - nb_configuracao_ambiente_case_ifood.html](https://github.com/arleycg/case-ifood/blob/main/src/1%20-%20nb_configuracao_ambiente_case_ifood.html)
 
