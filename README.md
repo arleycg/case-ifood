@@ -30,5 +30,8 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 
 ![external location](imgs/catalogo.png) 
 
+###  4 - Notebooks:
+  -  4.1  Download dos dados fontes da API: 
+
 
 
