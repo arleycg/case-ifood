@@ -19,4 +19,12 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 ###  2 -  Configurado o External Location do "Unit Catalog" para apontar para o S3:
 ![external location](imgs/external_location.png) 
 
+###  3 -  Estrutura final do catalogo:
+  - 3.1 criado catalogo de nome "ifood"
+  - 3.2 criado schemas para cada layer (bronze, silver e gold)
+  - 3.3 criado volume de nome "landing" para governança dos dados baixados da API em JSON
+
+![external location](imgs/landing.png) 
+
+
 
