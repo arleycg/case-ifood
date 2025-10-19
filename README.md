@@ -32,4 +32,5 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 
 ###  4 - Notebooks:
   -  4.1  Configuração do ambiente: [1 - nb_configuracao_ambiente_case_ifood.html](https://github.com/arleycg/case-ifood/blob/main/src/1%20-%20nb_configuracao_ambiente_case_ifood.html)
+  -  4.2  Download dos dados para a Landing Zone: [2 - nb_download_landing_json.html](https://github.com/arleycg/case-ifood/blob/main/src/2%20-%20nb_download_landing_json.html)
 
