@@ -1,6 +1,6 @@
 # case-ifood
 
-### solução do case proposto por Arley Gomes
+### solução do case proposto por Arley Clayton Gomes
 
 ## Premissas:
 
