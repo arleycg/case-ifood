@@ -22,7 +22,11 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 ###  3 -  Estrutura final do catalogo:
   - 3.1 criado catalogo de nome "ifood"
   - 3.2 criado schemas para cada layer (bronze, silver e gold)
-  - 3.3 criado volume de nome "landing" para governança dos dados baixados da API em JSON
+  - 3.3 criado as respectivas tabelas em cada layer
+      3.3.1 - Bronze: ifood.bronze.tbl_bronze_nyc_taxi_data
+      3.3.2 - Silver: ifood.silver.tbl_silver_nyc_taxi_data
+      3.3.3 - Gold:   ifood.gold.tbl_gold_nyc_taxi_data
+  - 3.4 criado volume de nome "landing" para governança dos dados baixados da API em JSON
 
 ![external location](imgs/catalogo.png) 
 
