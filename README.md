@@ -18,4 +18,6 @@ dos dados
 
 ## Passo a passo do desenvolvimento:
 
-### -  Criado storage no S3 com o nome "arley-case-ifood" (arley-case-ifood)
+### -  Criado storage no S3 com o nome "arley-case-ifood" (arley-case-ifood):
+![bucket s3](imgs/s3.png)
+
