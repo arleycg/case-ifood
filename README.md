@@ -31,7 +31,5 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 ![external location](imgs/catalogo.png) 
 
 ###  4 - Notebooks:
-  -  4.1  Download dos dados fontes da API: 
-
-
+  -  4.1  Download dos dados fontes da API: [Acesse o relatório completo](https://github.com/usuario/repositorio/blob/main/docs/relatorio.md)
 
