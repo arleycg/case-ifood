@@ -42,3 +42,6 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 
 ###  5 - Respostas do Desafio (analysis -  Scripts/Notebooks com as repostas do desafio):
   -  5.1  Notebook com as respostas do desafio: [6 - nb_respostas_desafio.html](https://github.com/arleycg/case-ifood/blob/main/analysis/6%20-%20nb_respostas_desafio.html)
+
+###  6 - Linhagem dos dados:
+![data lineage](imgs/lineage.png)
