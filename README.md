@@ -42,7 +42,7 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
   -  4.4  carga dos dados na silver layer: [4 - nb_silver_layer.html](https://github.com/arleycg/case-ifood/blob/main/src/4%20-%20nb_silver_layer.html)
   -  4.5  carga dos dados na gold layer: [5 - nb_gold_layer.html](https://github.com/arleycg/case-ifood/blob/main/src/5%20-%20nb_gold_layer.html)
 
-###  5 - Respostas do Desafio (analysis -  Scripts/Notebooks com as repostas do desafio):
+###  5 - Respostas do Desafio (analysis -  Scripts/Notebooks com as respostas do desafio):
   -  5.1  Notebook com as respostas do desafio: [6 - nb_respostas_desafio.html](https://github.com/arleycg/case-ifood/blob/main/analysis/6%20-%20nb_respostas_desafio.html)
 
 ###  6 - Linhagem dos dados:
