@@ -11,7 +11,8 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 - Adotado arquitetura medalhão (landing zone, bronze, silver e gold layer como camada de consumo dos dados)
 - A estrategia adotada para cargas dos dados entre as camadas foi através do Spark Streaming
 - Utilizado bucket do S3 como storage
-#### - OBS: O link fornecido no case para download dos dados esta indisponível. Realizei uma busca e encontrei a API para download dos dados conforme este link:  (https://data.cityofnewyork.us/Transportation/2023-Yellow-Taxi-Trip-Data/4b4i-vvec/about_data)
+#### - OBS: O link fornecido no case para download dos dados esta indisponível conforme imagem abaixo. Realizei uma busca e encontrei a API para download dos dados conforme este link:  [Yellow Taxi Trip Data](https://data.cityofnewyork.us/Transportation/2023-Yellow-Taxi-Trip-Data/4b4i-vvec/about_data)
+
 ## Passo a passo do desenvolvimento:
 
 ###  1 - Criado storage no S3 com o nome "arley-case-ifood" (arley-case-ifood):
