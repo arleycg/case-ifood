@@ -12,6 +12,7 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 - A estrategia adotada para cargas dos dados entre as camadas foi através do Spark Streaming
 - Utilizado bucket do S3 como storage
 #### - OBS: O link fornecido no case para download dos dados esta indisponível conforme imagem abaixo. Realizei uma busca e encontrei a API para download dos dados via JSON:  [Yellow Taxi Trip Data](http://data.cityofnewyork.us/Transportation/2023-Yellow-Taxi-Trip-Data/4b4i-vvec/about_data)
+![Erro link](imgs/path_error_resized.png)
 
 ## Passo a passo do desenvolvimento:
 
