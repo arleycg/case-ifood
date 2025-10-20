@@ -5,7 +5,7 @@
 ## Premissas:
 
 Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e premissas:
-- Todo o desenvolvimento foi realizado utilizando o Databricks
+- Todo o desenvolvimento foi realizado utilizando o Databricks Free Edition
 - As linguagens utilizadas foram PySpark e SparkSQL
 - Foi adotado o Unit Catalog como estratégia de governança, acessos, data lineage e catalogo
 - Adotado arquitetura medalhão (landing zone, bronze, silver e gold layer como camada de consumo dos dados)
