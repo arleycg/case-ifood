@@ -33,7 +33,7 @@ Para o desenvolvimento do case, foram consideradas as seguintes tecnologias e pr
 ![external location](imgs/catalogo.png) 
 
 ###  4 - Notebooks (src - codigos fontes da solução):
-#### Ordem de desenvolvimento e execução dos notebooks:
+#### Ordem de desenvolvimento e execução dos notebooks (OBS: realizar o download do arquivo e abrir no navegador):
   -  4.1  Configuração do ambiente: [1 - nb_configuracao_ambiente_case_ifood.html](https://github.com/arleycg/case-ifood/blob/main/src/1%20-%20nb_configuracao_ambiente_case_ifood.html)
   -  4.2  Download dos dados para a Landing Zone: [2 - nb_download_landing_json.html](https://github.com/arleycg/case-ifood/blob/main/src/2%20-%20nb_download_landing_json.html)
   -  4.3  carga dos dados na bronze layer: [3 - nb_bronze_layer.html](https://github.com/arleycg/case-ifood/blob/main/src/3%20-%20nb_bronze_layer.html)
